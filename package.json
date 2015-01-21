@@ -1,0 +1,11 @@
+{
+  "name": "NodeApp",
+  "version": "0.0.1",
+  "description": "A Node.js App",
+  "dependencies": {
+    "aws-sdk": "*",
+    "express": "*",
+    "proxy-agent": "^1.1.0"
+  },
+  "engine": "node >=0.6.x"
+}
